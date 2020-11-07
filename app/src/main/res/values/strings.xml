@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">mobiiliProjekti</string>
+
+    <string name="menuOtsikko">RUOKALISTA</string>
+    <string name="menuKuvaus">Täydellinen myyntipuhe ja kuvaus tähän</string>
+
+    <string name="menuVakio">Vakivalikoimamme</string>
+    <string name="menuKausi">Kausivalikoimamme</string>
+
+    <string name="annos1">KALAKEITTO</string>
+    <string name="annos2">HERNEKEITTO</string>
+    <string name="annos3">KARJALANPAISTI</string>
+    <string name="annos4">MAKKARAKEITTO</string>
+
+    <string name="kuvaus1">Perinteinen perämeren kalakeitto.</string>
+    <string name="kuvaus2">Torstain tuttu hernekeitto.</string>
+    <string name="kuvaus3">Mureaksi haudutettu karjalanpaisti.</string>
+    <string name="kuvaus4">Kaikkien lemppari makkarakeitto.</string>
+
 </resources>

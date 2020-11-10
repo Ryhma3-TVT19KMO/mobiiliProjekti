@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">mobiiliProjekti</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="verify_password">Verify password</string>
+    <string name="email">Email</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login_not_registered">Not registered? Sign up here</string>
 </resources>
